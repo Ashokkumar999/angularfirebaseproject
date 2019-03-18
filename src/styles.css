@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.css';
+ /* body{
+   background-image: url("../src/assets/500_F_129110344_Z9xKmHsiubDdjOt00I82GzPaIhgxeSU3.jpg");
+   background-repeat: no-repeat;
+   background-image: cover;
+ } */
+ body{
+  background-image: url('../src/assets/keyboard-338505_1920.jpg');
+  background-repeat: no-repeat;
+  font-weight: bold;
+  background-attachment: fixed;
+  background-size: cover;
+  color: rgba(12, 12, 12, 0.925);
+}
+
+

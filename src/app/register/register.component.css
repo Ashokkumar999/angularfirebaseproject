@@ -1,0 +1,17 @@
+
+form{
+
+  border-radius:10%;
+  padding:10%
+}
+
+
+.card{
+  border-radius:20%;
+  background-color: rgba(168, 154, 148, 0.575);
+}
+
+label{
+  font-weight: bold;
+  font-size: larger;
+}

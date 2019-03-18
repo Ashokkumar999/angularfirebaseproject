@@ -1,0 +1,21 @@
+.form-control.ng-touched.ng-invalid {
+    border: 1px solid red;
+}
+.form-control.ng-touched.ng-valid {
+    border: 1px solid green;
+}
+
+form{
+
+  border-radius:10%;
+  padding:10%;
+}
+
+.card{
+  border-radius:20%;
+  background-color: rgba(168, 154, 148, 0.575);
+}
+label{
+  font-weight: bold;
+  font-size: larger;
+}
